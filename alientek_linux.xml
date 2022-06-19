@@ -1,0 +1,26 @@
+<manifest>
+        <remote name="origin" fetch="ssh://git@e.coding.net" revision="master"></remote>
+        <default remote="origin"></default>
+        <project name="alientek-linux/imx6ull/Release_Notes" path="imx6ull/Release_Notes" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/01_Soure_Code" path="imx6ull/01_Soure_Code" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/02_Datasheet" path="imx6ull/02_Datasheet" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/03_Software" path="imx6ull/03_Software" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/04_Reference_Material" path="imx6ull/04_Reference_Material" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/05_Tools" path="imx6ull/05_Tools" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/06_Hardware" path="imx6ull/06_Hardware" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/07_IMX6U_Reference_Material" path="imx6ull/07_IMX6U_Reference_Material" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/08_System_Images" path="imx6ull/08_System_Images" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/09_Tutorial_Doc" path="imx6ull/09_Tutorial_Doc" groups="" revision="master"></project>
+        <project name="alientek-linux/imx6ull/10_User_Manual" path="imx6ull/10_User_Manual" groups="" revision="master"></project>
+
+        <project name="alientek-linux/stm32mp1/01_Source_Code" path="stm32mp1/01_Source_Code" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/02_Datasheet" path="stm32mp1/02_Datasheet" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/03_Software" path="stm32mp1/03_Software" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/04_Reference_Material" path="stm32mp1/04_Reference_Material" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/05_Tools" path="stm32mp1/05_Tools" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/06_Hardware" path="stm32mp1/06_Hardware" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/07_STM32MP1_Reference_Material" path="stm32mp1/07_STM32MP1_Reference_Material" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/08_System_Images" path="stm32mp1/08_System_Images" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/09_Tutorial_Doc" path="stm32mp1/09_Tutorial_Doc" groups="" revision="master"></project>
+        <project name="alientek-linux/stm32mp1/10_User_Manual" path="stm32mp1/10_User_Manual" groups="" revision="master"></project>
+</manifest>

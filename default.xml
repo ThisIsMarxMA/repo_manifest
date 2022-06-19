@@ -1,6 +1,0 @@
-<manifest>
-        <remote name="origin" fetch="ssh://git@e.coding.net" revision="master"></remote>
-        <default remote="origin"></default>
-        <project name="alientek-linux/imx6ull/Release_Notes" path="imx6ull/" groups="" revision="master"></project>
-
-</manifest>
