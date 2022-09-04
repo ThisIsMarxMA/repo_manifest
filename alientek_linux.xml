@@ -2,7 +2,7 @@
         <remote name="origin" fetch="ssh://git@e.coding.net" revision="master"></remote>
         <default remote="origin"></default>
         <project name="atk-imx6ull/imx6ull/Release_Notes" path="imx6ull/Release_Notes" groups="" revision="master"></project>
-        <project name="atk-imx6ull/imx6ull/01_Source_Code" path="imx6ull/01_Soure_Code" groups="" revision="master"></project>
+        <project name="atk-imx6ull/imx6ull/01_Source_Code" path="imx6ull/01_Source_Code" groups="" revision="master"></project>
         <project name="atk-imx6ull/imx6ull/02_Datasheet" path="imx6ull/02_Datasheet" groups="" revision="master"></project>
         <project name="atk-imx6ull/imx6ull/03_Software" path="imx6ull/03_Software" groups="" revision="master"></project>
         <project name="atk-imx6ull/imx6ull/04_Reference_Material" path="imx6ull/04_Reference_Material" groups="" revision="master"></project>
